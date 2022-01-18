@@ -19,8 +19,10 @@
   },
   "keywords": [
     "discord",
+    "discord.js",
     "nest",
     "nestjs",
+    "nest.js",
     "module"
   ],
   "bugs": {
